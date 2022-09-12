@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/yeohrachel%40gmail.com_dev/guestbook/read-guestbook-entries-sequence';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/yeohrachel%40gmail.com_dev/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
